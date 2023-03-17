@@ -2,7 +2,7 @@ package gr.aueb.cf.samples;
 
 import java.util.Scanner;
 
-public class Tier1Question2 {
+public class Example1 {
 
     public static void main(String arg[])
     {
