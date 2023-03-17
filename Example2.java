@@ -2,8 +2,8 @@ package gr.aueb.cf.samples;
 
 import java.util.Scanner;
 
-class Tier2Question2
-{
+class Example2 {
+    
     public static void main (String[] args)
     {
         Scanner scanner = new Scanner(System.in);
